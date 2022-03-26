@@ -1,0 +1,71 @@
+.btn-outline-success {
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+    color: #f8f9fa;
+}
+
+.navbar-light .navbar-brand {
+    color: #f8f9fa;
+    font-weight: bold;
+}
+
+.bg-light {
+    background-color: #a53f3f !important;
+}
+
+/*.carousel-inner {
+	width: 100%;
+}*/
+
+.carousel-inner img {
+    width: 100%;
+    height: 550px;
+    margin-bottom: 5px;
+  }
+.about-pizza {
+	margin-top:3rem;
+	margin-bottom: 2rem;
+}
+
+.pizza-types {
+	margin-bottom: 1rem;
+}
+
+.pizza1 {
+	margin-bottom: 1rem;
+}
+
+.footer {
+	background-color: #a53f3f;
+	color: white;
+	padding: 1rem 0rem;
+}
+
+.section-text {
+	box-shadow: 10px 7px 15px -3px rgba(0,0,0,0.75);
+
+}
+
+.card {
+	box-shadow: 10px 7px 15px -3px rgba(0,0,0,0.75);
+    /*transform: scale(0.15); */
+    transition: 0.3s;  
+    cursor: pointer;
+    /* transform: scale(1.15); */
+    /* z-index: 1000; */
+}
+
+.card :hover {
+    background: rgba(0, 0, 0, 0.1);
+}
