@@ -2,7 +2,7 @@ function About() {
     return(
         <div className="container about-pizza">
 		    <div className="row pizza1">
-			    <div className="col-md-12">
+			    <div className="col-md-12"> 
 				    <h2 className="text-center">About Pizza</h2>
 			    </div>
 		    </div>

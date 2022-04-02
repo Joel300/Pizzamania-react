@@ -13,7 +13,7 @@ function App() {
       <Slider />  
       <About />
       <Pizzatype />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
